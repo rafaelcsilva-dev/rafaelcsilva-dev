@@ -1,12 +1,17 @@
-# 💻 Rafael da Costa Silva
-
-**`Desenvolvedor Front-End`**
-
-Me chamo Rafael, sou desenvolvedor Front-End em transição para me tornar Full-Stack. Apaixonado por tecnologia, estou sempre em busca de aprendizado contínuo e desenvolvo projetos próprios para aprimorar minhas habilidades, explorar novas soluções e acompanhar as tendências do mercado.
+# Olá, sou o Rafael 👋
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas na FMU, sou apaixonado por tecnologia e entusiasta do desenvolvimento de games. 
+
+** Atualmente focado
+- Desenvolvimento Web
+- Engenharia de Software
+- Criação de APIs e Integração de Sistemas
+
+---
+
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
