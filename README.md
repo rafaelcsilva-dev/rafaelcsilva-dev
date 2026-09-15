@@ -1,6 +1,4 @@
-# Olá, sou o Rafael 👋
-
-
+# Olá, sou o Rafael 
 
 Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas na FMU, sou apaixonado por tecnologia e entusiasta do desenvolvimento de games. 
 
