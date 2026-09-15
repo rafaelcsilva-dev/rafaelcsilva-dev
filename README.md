@@ -4,7 +4,7 @@
 
 Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas na FMU, sou apaixonado por tecnologia e entusiasta do desenvolvimento de games. 
 
-** Atualmente focado
+## **Atualmente focado**
 - Desenvolvimento Web
 - Engenharia de Software
 - Criação de APIs e Integração de Sistemas
